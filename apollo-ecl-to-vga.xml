@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/toshok/src/domainos-archeology/apollo-ecl-to-vga/apollo-ecl-to-vga/apollo-ecl-to-vga.kicad_sch</source>
+    <date>2023 May 10, Wednesday 13:02:40</date>
+    <tool>Eeschema 7.0.2-0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>apollo-ecl-to-vga.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6351df3-cbf9-462c-9838-18284d54d02f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>420e5b5c-6258-406d-bf89-2c50015f538e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5f807e2-f5e0-47ca-aac6-4c9ce11c14fc</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c8b537f-81eb-4c96-891d-19d3b65e5258</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0de3e5af-caa7-43a0-a9b0-33cc0771a81d</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>SY100ELT25ZG-TR</value>
+      <footprint>Converter_DCDC:SOIC127P602X173-8N</footprint>
+      <fields>
+        <field name="Height">1.73</field>
+        <field name="LCSC">C632325</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">SY100ELT25ZG-TR</field>
+        <field name="Mouser Part Number">998-SY100ELT25ZGTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/SY100ELT25ZG-TR?qs=Y3Q3JoKAO1S9PRqB7MkYdQ%3D%3D</field>
+      </fields>
+      <libsource lib="SY100ELT25ZG-TR" part="SY100ELT25ZG-TR" description="Translation - Voltage Levels Dual Diff ECL to TTL Translator"/>
+      <property name="Height" value="1.73"/>
+      <property name="Mouser Part Number" value="998-SY100ELT25ZGTR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/SY100ELT25ZG-TR?qs=Y3Q3JoKAO1S9PRqB7MkYdQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="SY100ELT25ZG-TR"/>
+      <property name="LCSC" value="C632325"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels Dual Diff ECL to TTL Translator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>022d1af3-a0a6-4b1d-a9fd-e56851dd2cc4</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>DB9_Female</value>
+      <footprint>Project Library:AMPHENOL_LD09S13A4GV00LF</footprint>
+      <fields>
+        <field name="MANUFACTURER">Amphenol</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">13.86mm</field>
+        <field name="PARTREV">B</field>
+        <field name="SNAPEDA_PN">LD09S13A4GV00LF</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="Connector" part="LD09S13A4GV00LF" description=""/>
+      <property name="PARTREV" value="B"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="SNAPEDA_PN" value="LD09S13A4GV00LF"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="13.86mm"/>
+      <property name="MANUFACTURER" value="Amphenol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="dnp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7630a985-140b-4ce5-bcb9-68c839138f5c</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>DB15_Female</value>
+      <footprint>Project Library:AMPHENOL_ICD15S13E4GX00LF</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="MANUFACTURER">Amphenol</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">12.96mm</field>
+        <field name="PARTREV">G</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="Connector" part="ICD15S13E4GX00LF" description=""/>
+      <property name="PARTREV" value="G"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="12.96mm"/>
+      <property name="MANUFACTURER" value="Amphenol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="dnp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a77f4561-7cd9-42ed-baea-6ed775edbd33</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>IA0505S</value>
+      <footprint>Converter_DCDC:Converter_DCDC_XP_POWER-IAxxxxS_THT</footprint>
+      <datasheet>https://www.mornsun-power.com/html/pdf/A0505S-1WR3.html</datasheet>
+      <fields>
+        <field name="LCSC">C131042</field>
+      </fields>
+      <libsource lib="Converter_DCDC" part="IA0505S" description="XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±5V, ±100mA, 5V Input Voltage, SIP"/>
+      <property name="LCSC" value="C131042"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_description" value="XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±5V, ±100mA, 5V Input Voltage, SIP"/>
+      <property name="ki_keywords" value="XP_POWER DC/DC isolated Converter module"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b02b05c5-6399-42f3-b08b-c43b319674ff</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>150</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3da6db5-1909-494a-8a22-79dde9bdab33</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>micro_USBFemale</value>
+      <footprint>lcsc.pretty:MICRO-USB-SMD_5P-P0.65-H-F_C10418</footprint>
+      <datasheet>https://item.szlcsc.com/10961.html</datasheet>
+      <fields>
+        <field name="LCSC">C10418</field>
+      </fields>
+      <libsource lib="lcsc" part="micro_USBFemale" description=""/>
+      <property name="LCSC" value="C10418"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apollo-ecl-to-vga.kicad_sch"/>
+      <property name="ki_keywords" value="C10418"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ead314f-fa4a-405d-861a-19436fc8cda0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="ICD15S13E4GX00LF">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">ICD15S13E4GX00LF</field>
+        <field name="Footprint">AMPHENOL_ICD15S13E4GX00LF</field>
+        <field name="PARTREV">G</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">12.96mm</field>
+        <field name="MANUFACTURER">Amphenol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD__1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="LD09S13A4GV00LF">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">LD09S13A4GV00LF</field>
+        <field name="Footprint">AMPHENOL_LD09S13A4GV00LF</field>
+        <field name="PARTREV">B</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SNAPEDA_PN">LD09S13A4GV00LF</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">13.86mm</field>
+        <field name="MANUFACTURER">Amphenol</field>
+      </fields>
+      <pins>
+        <pin num="01" name="01" type="passive"/>
+        <pin num="02" name="02" type="passive"/>
+        <pin num="03" name="03" type="passive"/>
+        <pin num="04" name="04" type="passive"/>
+        <pin num="05" name="05" type="passive"/>
+        <pin num="06" name="06" type="passive"/>
+        <pin num="07" name="07" type="passive"/>
+        <pin num="08" name="08" type="passive"/>
+        <pin num="09" name="09" type="passive"/>
+        <pin num="SH1" name="SHIELD" type="passive"/>
+        <pin num="SH2" name="SHIELD__1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Converter_DCDC" part="IA0505S">
+      <description>XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±5V, ±100mA, 5V Input Voltage, SIP</description>
+      <docs>https://www.xppower.com/pdfs/SF_IA.pdf</docs>
+      <footprints>
+        <fp>*XP?POWER?IAxxxxS*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">IA0505S</field>
+        <field name="Footprint">Converter_DCDC:Converter_DCDC_XP_POWER-IAxxxxS_THT</field>
+        <field name="Datasheet">https://www.xppower.com/pdfs/SF_IA.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+Vin" type="power_in"/>
+        <pin num="2" name="-Vin" type="power_in"/>
+        <pin num="4" name="-Vout" type="power_out"/>
+        <pin num="5" name="0V" type="power_out"/>
+        <pin num="6" name="+Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SY100ELT25ZG-TR" part="SY100ELT25ZG-TR">
+      <description>Translation - Voltage Levels Dual Diff ECL to TTL Translator</description>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">SY100ELT25ZG-TR</field>
+        <field name="Footprint">SOIC127P602X173-8N</field>
+        <field name="Height">1.73</field>
+        <field name="Mouser Part Number">998-SY100ELT25ZGTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/SY100ELT25ZG-TR?qs=Y3Q3JoKAO1S9PRqB7MkYdQ%3D%3D</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">SY100ELT25ZG-TR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VEE" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="~{D}" type="passive"/>
+        <pin num="4" name="VBB" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="Q" type="passive"/>
+        <pin num="8" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lcsc" part="micro_USBFemale">
+      <docs>https://item.szlcsc.com/10961.html</docs>
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">micro_USBFemale</field>
+        <field name="Footprint">lcsc.pretty:MICRO-USB-SMD_5P-P0.65-H-F_C10418</field>
+        <field name="Datasheet">https://item.szlcsc.com/10961.html</field>
+        <field name="LCSC">C10418</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V+" type="unspecified"/>
+        <pin num="2" name="D-" type="unspecified"/>
+        <pin num="3" name="D+" type="unspecified"/>
+        <pin num="4" name="ID" type="unspecified"/>
+        <pin num="5" name="V-" type="unspecified"/>
+        <pin num="SH0" name="MTN" type="input"/>
+        <pin num="SH1" name="SH1" type="unspecified"/>
+        <pin num="SH2" name="SH2" type="unspecified"/>
+        <pin num="SH3" name="SH3" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Converter_DCDC">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Converter_DCDC.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="SY100ELT25ZG-TR">
+      <uri>/Users/toshok/src/domainos-archeology/apollo-ecl-to-vga/parts/sy100elt25zg/SY100ELT25ZG-TR/KiCad/SY100ELT25ZG-TR.kicad_sym</uri>
+    </library>
+    <library logical="lcsc">
+      <uri>/Users/toshok/src/domainos-archeology/apollo-ecl-to-vga/apollo-ecl-to-vga/JLC2KiCad_lib/Schematic/lcsc.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VCC" pintype="passive"/>
+      <node ref="PS1" pin="6" pinfunction="+Vout" pintype="power_out"/>
+    </net>
+    <net code="2" name="-5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="VEE" pintype="passive"/>
+      <node ref="PS1" pin="4" pinfunction="-Vout" pintype="power_out"/>
+    </net>
+    <net code="3" name="/hsync">
+      <node ref="J1" pin="03" pinfunction="03" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="4" name="/sync_gnd">
+      <node ref="J1" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="5" name="/video+">
+      <node ref="IC1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="J1" pin="06" pinfunction="06" pintype="passive"/>
+    </net>
+    <net code="6" name="/video-">
+      <node ref="IC1" pin="3" pinfunction="~{D}" pintype="passive"/>
+      <node ref="J1" pin="01" pinfunction="01" pintype="passive"/>
+    </net>
+    <net code="7" name="/vsync">
+      <node ref="J1" pin="04" pinfunction="04" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="SH1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="SH2" pinfunction="SHIELD__1" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J2" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S2" pinfunction="SHIELD__1" pintype="passive"/>
+      <node ref="PS1" pin="5" pinfunction="0V" pintype="power_out"/>
+    </net>
+    <net code="9" name="Net-(IC1-Q)">
+      <node ref="IC1" pin="7" pinfunction="Q" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(PS1-+Vin)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="+Vin" pintype="power_in"/>
+      <node ref="USB1" pin="1" pinfunction="V+" pintype="unspecified"/>
+    </net>
+    <net code="12" name="Net-(PS1--Vin)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="-Vin" pintype="power_in"/>
+      <node ref="USB1" pin="5" pinfunction="V-" pintype="unspecified"/>
+    </net>
+    <net code="13" name="unconnected-(IC1-NC-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(IC1-VBB-Pad4)">
+      <node ref="IC1" pin="4" pinfunction="VBB" pintype="passive+no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(J1-Pad02)">
+      <node ref="J1" pin="02" pinfunction="02" pintype="passive+no_connect"/>
+    </net>
+    <net code="16" name="unconnected-(J1-Pad05)">
+      <node ref="J1" pin="05" pinfunction="05" pintype="passive+no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(J1-Pad07)">
+      <node ref="J1" pin="07" pinfunction="07" pintype="passive+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(J1-Pad09)">
+      <node ref="J1" pin="09" pinfunction="09" pintype="passive+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(J2-Pad9)">
+      <node ref="J2" pin="9" pinfunction="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J2-Pad12)">
+      <node ref="J2" pin="12" pinfunction="12" pintype="passive+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(J2-Pad15)">
+      <node ref="J2" pin="15" pinfunction="15" pintype="passive+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(USB1-D+-Pad3)">
+      <node ref="USB1" pin="3" pinfunction="D+" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(USB1-D--Pad2)">
+      <node ref="USB1" pin="2" pinfunction="D-" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(USB1-ID-Pad4)">
+      <node ref="USB1" pin="4" pinfunction="ID" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(USB1-MTN-PadSH0)">
+      <node ref="USB1" pin="SH0" pinfunction="MTN" pintype="input+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(USB1-PadSH1)">
+      <node ref="USB1" pin="SH1" pinfunction="SH1" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(USB1-PadSH2)">
+      <node ref="USB1" pin="SH2" pinfunction="SH2" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(USB1-PadSH3)">
+      <node ref="USB1" pin="SH3" pinfunction="SH3" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>

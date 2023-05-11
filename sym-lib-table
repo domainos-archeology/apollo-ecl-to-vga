@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SY100ELT25ZG-TR")(type "KiCad")(uri "/Users/toshok/src/domainos-archeology/apollo-ecl-to-vga/parts/sy100elt25zg/SY100ELT25ZG-TR/KiCad/SY100ELT25ZG-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "lcsc")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/Schematic/lcsc.kicad_sym")(options "")(descr ""))
+)
